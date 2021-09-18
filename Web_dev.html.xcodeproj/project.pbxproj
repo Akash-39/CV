@@ -1,0 +1,77 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		6B1FB54B26F5E6F80081B46C /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		6B1FB54C26F5FC1A0081B46C /* education.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = education.html; sourceTree = "<group>"; };
+		6B1FB54D26F5FEA20081B46C /* contact.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = contact.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		6B1FB54426F5E6700081B46C = {
+			isa = PBXGroup;
+			children = (
+				6B1FB54D26F5FEA20081B46C /* contact.html */,
+				6B1FB54C26F5FC1A0081B46C /* education.html */,
+				6B1FB54B26F5E6F80081B46C /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		6B1FB54526F5E6700081B46C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 6B1FB54826F5E6700081B46C /* Build configuration list for PBXProject "Web_dev.html" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6B1FB54426F5E6700081B46C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		6B1FB54926F5E6700081B46C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		6B1FB54A26F5E6700081B46C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6B1FB54826F5E6700081B46C /* Build configuration list for PBXProject "Web_dev.html" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6B1FB54926F5E6700081B46C /* Debug */,
+				6B1FB54A26F5E6700081B46C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6B1FB54526F5E6700081B46C /* Project object */;
+}
