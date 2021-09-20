@@ -20,3 +20,22 @@
        h5{
         color: 66bfbf;
        }
+       .dp{
+         border-radius: 100%;
+         width: 250px;
+         height: 250px;
+       }
+       h4:hover{
+         background-color: rgb(206, 240, 245);
+         size: 200%;
+       }
+       h5:hover{
+        background-color: rgb(206, 240, 245);
+      }
+      input:hover{
+        background-color: rgb(206, 240, 245);
+      }
+      textarea:hover{
+        background-color:rgb(206, 240, 245);
+      }
+      
